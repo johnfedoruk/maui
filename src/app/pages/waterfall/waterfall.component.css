@@ -5,6 +5,10 @@
     background-position: center;
     background-size: cover;
 }
+span:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
 .demo {
     max-width: 100%;
 }
