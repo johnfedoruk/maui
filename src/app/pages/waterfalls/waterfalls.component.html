@@ -1,3 +1,10 @@
-<p>
-  waterfalls works!
-</p>
+<div class="w3-row">
+    <div class="w3-col m3 l3" *ngFor="let waterfall of waterfalls">
+        <div class="w3-card-4">
+            <img [src]="waterfall.images[0]" [alt]="waterfall.name">
+            <div class="w3-container w3-center">
+                <p>{{waterfall.name}}</p>
+            </div>
+        </div>
+    </div>
+</div>
