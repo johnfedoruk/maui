@@ -1,6 +1,7 @@
 .w3-card-4 {
     width: calc( 100% - 20px );
     margin: 9px;
+    cursor: pointer;
 }
 img {
     width: 100%;
