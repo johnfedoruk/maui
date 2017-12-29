@@ -88,5 +88,41 @@
         "lon":"-156.0962",
         "address":"",
         "website":""
+    },
+    {
+        "slug":"honokohau-falls",
+        "name":"Honokohau Falls",
+        "description":"Reputedly the tallest waterfall on Maui, Honokohau Falls is situated deep within an inaccessible West Maui valley. Only visible via a helicopter tour, the two-tiered waterfall tops out at an astounding 1,119 feet.",
+        "height":"1,119ft",
+        "access":"Hellocopter, hike",
+        "tips":"Choose the combined West Maui/Moloka‘i tour to view Honokohau Falls and the dramatic sea cliffs of Moloka‘i",
+        "images":[
+            "http://4.bp.blogspot.com/-ki9xEed4uUI/V5tnu3y7cfI/AAAAAAAAEL0/zKIWS5mMPqI1sTbOKe3SWXtmBpULJY8igCK4B/s1600/weepingwall.jpg",
+            "https://d1li3p7kp8c46b.cloudfront.net/10000/9979.900.944f4664cb.jpg",
+            "https://feel-planet.com/wp-content/uploads/2015/09/Honokohau-Falls.jpg",
+            "https://feel-planet.com/wp-content/uploads/2015/09/Honokohau-Falls-Maui-USA.jpg"
+        ],
+        "lat":"19.6787",
+        "lon":"-156.0217",
+        "address":"",
+        "website":""
+    },
+    {
+        "slug":"makamakaole-falls",
+        "name":"Makamaka‘ole Falls",
+        "description":"One of the few West Maui waterfalls accessible by land, Makamaka‘ole is a series of two falls set against a lush, jungle backdrop. The full 270-foot falls can be viewed from a distance by hiking the Waihe‘e Ridge Trail, while the lower falls, approximately 60 feet high, can be seen from Kahekili Highway (Hwy 340) just past mile marker 8.",
+        "height":"270ft",
+        "access":"One mile hiking up the Waihe‘e Ridge Trail or Kahekili Hwy (Hwy 340) just past mile marker 8.",
+        "tips":"Great stop to add if you’re planning the Kahekili Highway loop drive from Honolua Bay to Kahului.",
+        "images":[
+            "http://www.minnhock.com/hawaii2009-hiking-tour_75.jpg",
+            "https://aws.hawaii-guide.com/images/made/Falls3_1600_750_85_s_c1_c_c_0_0.jpg",
+            "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/s480x480/e35/c135.0.809.809/13267368_189098381486690_350953227_n.jpg?ig_cache_key=MTI2MTMzOTgzNzYzOTA4ODMyNw%3D%3D.2.c",
+            "http://www.greglamy.net/Hiking/images/Makamakaole/Maui%20-%202012%20Last%20view%20of%20Makamakaole%20falls%20as%20we%20headed%20out.JPG"
+        ],
+        "lat":"20.8029389",
+        "lon":"-156.4780683",
+        "address":"",
+        "website":""
     }
 ]
