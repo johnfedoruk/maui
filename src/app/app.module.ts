@@ -8,6 +8,10 @@ import { HttpModule } from '@angular/http';
 import { WaterfallService } from './services/waterfall.service';
 import { WaterfallComponent } from './pages/waterfall/waterfall.component';
 
+import { AgmCoreModule } from '@agm/core';
+import { environment } from '../environments/environment';
+
+
 const routes: Route[] = [
     {
         path: "",
@@ -33,7 +37,10 @@ const routes: Route[] = [
     imports: [
         BrowserModule,
         RouterModule.forRoot(routes),
-        HttpModule
+        HttpModule,
+        AgmCoreModule.forRoot({
+            apiKey: environment.maps
+        })
     ],
     providers: [
         WaterfallService
