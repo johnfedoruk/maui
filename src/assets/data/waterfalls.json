@@ -1,0 +1,92 @@
+[
+    {
+        "slug":"twin-falls",
+        "name":"Twin Falls",
+        "description":"Your first waterfall along the Road to Hana, Twin Falls has been seriously underrated by many guidebooks. Although the roadside parking is typically full, few travelers make it past the fruit stand. A short walk leads to two falls, both of which are surrounded by swimmable pools.",
+        "height":"10 - 30ft",
+        "access":"Park at “Twin Falls Fruit Stand” just past mile marker 2 on Hana Hwy",
+        "tips":"Best if you want to enjoy waterfalls but don’t have time for the full Road to Hana journey. Don’t forget your bathing suit.",
+        "images":[
+            "http://cdn.mauiguidebook.com/wp-content/uploads/2009/04/twinfallswaterfall.jpg",
+            "http://www.mauiinformationguide.com/img/_activities/hana/more-falls.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-s/0a/2c/03/51/pozas.jpg",
+            "https://i.ytimg.com/vi/JMplROGZp7c/maxresdefault.jpg"
+        ],
+        "lat":"20.9122",
+        "lon":"-156.2431",
+        "address":"6300 Hana Highway<br>HI 96708<br>United States",
+        "website":"https://www.twinfallsmaui.net/"
+    },
+    {
+        "slug":"rainbow-trees",
+        "name":"Rainbow Eucalyptus Trees",
+        "description":"The most well known grove of rainbow eucalyptus on Maui is located near mile marker 7 along the Hana Highway but these beautiful trees are scattered at several other locations including Ke’anae Arboretum and spots just before Hana town.  They can be hard to spot in the dense rainforest so if you really want to be sure to experience these amazing trees up close try going on a road to Hana tour.  A guide can safely show you where this and many more treasures along the road to Hana are. Hana Ho!",
+        "height":"",
+        "access":"From Paia, head south on Highway 36 (Hana Highway). The painted forest is approximately seven miles down the road, on the left (makai) side of the road. ",
+        "tips":"",
+        "images":[
+            "http://www.lovethesepics.com/wp-content/uploads/2013/01/Stunning-Hawaiian-treescapes.jpg",
+            "https://c1.staticflickr.com/1/320/19168421361_59cf2d448d_o.png",
+            "https://www.aquila-style.com/wp-content/uploads/2015/08/Rainbow-eucalyptus-Hawaii4.jpg",
+            "https://i.pinimg.com/originals/53/69/9a/53699a9271d79c16aec9ac7eabec03fa.jpg"
+        ],
+        "lat":"20.850286810635428",
+        "lon":"-156.40705220569419",
+        "address":"",
+        "website":""
+    },
+    {
+        "slug":"puohokamoa-falls",
+        "name":"Lower Puohokamoa Falls",
+        "description":"Continuing along Hana Highway is the towering 200-foot waterfall known as Lower Puohokamoa Falls, an incredible sight often missed by the majority of Hana-bound travelers. A five minute hike along a steep, slippery trail will lead you to a fantastic lookout point. Although you can only see it from a distance, Lower Puohokamoa is a sight to behold.",
+        "height":"200ft",
+        "access":"A solitary telephone pole about 8/10 of a mile past mile marker 10 on Hana Hwy marks the trail’s entrance. Because the pull off is tight and located on a blind turn, the safest access is when traveling towards Kahului.",
+        "tips":"Although short, the trail is slippery and narrow, and thus recommended only for able hikers.",
+        "images":[
+            "http://cdn.mauiguidebook.com/wp-content/uploads/2009/06/lower-puohokamoa-falls-tree-banner-rt-2048-cq8.jpg",
+            "https://aws.hawaii-guide.com/images/made/LowerPuohokamoaFalls2_1600_750_85_s_c1_c_c_0_0.jpg",
+            "https://www.hawaii-guide.com/images/made/images/remote/https_cdn.hawaii-guide.com/2013-files/126/UpperPuohokamoaFalls2_1600_750_85_s_c1_c_c_0_0.jpg.pagespeed.ce.KateFZlaR9.jpg",
+            "https://www.to-hawaii.com/maui/waterfalls/images/puohokamoafalls/upper_puohokamoa_falls.jpg"
+        ],
+        "lat":"20.9354",
+        "lon":"-156.3403",
+        "address":"561 Hana Hwy<br>Haiku, HI 96708<br>United States",
+        "website":""
+    },
+    {
+        "slug":"lava-tube",
+        "name":"Hana Lava Tube",
+        "description":"﻿Once inside, you'll descend deeper into the lava tube, passing stops and formations such as the moray eel and fallout shelter (which remains stocked with enough supplies to feed 15 people for 6 weeks), ropey pahoehoe, lava level lines, contraction cracks, lava stalagmites, cinder floor surface, lava tube lining, re-entry passages, overtubes, blind cave insects such as crickets, flatworms and millipedes, a'a lava, bowling alley, puzzle piece, overflow, cow bones, volcano vent, the chocolate corridor of stalactites, loft and a backflow. ",
+        "height":"",
+        "access":"",
+        "tips":"",
+        "images":[
+            "http://mauicave.com/photos/gallery/full/DSCN4102_full.jpg",
+            "http://roadtohana.com/img/hana-lava-caves.jpg",
+            "http://farm5.static.flickr.com/4006/4298493309_673440ae66.jpg",
+            "https://d18gmz9e98r8v5.cloudfront.net/ptr/20150120232950_1263053220_1249_9.png"
+        ],
+        "lat":"20.7875",
+        "lon":"-156.0276",
+        "address":"",
+        "website":"http://www.mauicave.com/"
+    },
+    {
+        "slug":"makapipi-falls",
+        "name":"Makapipi Falls",
+        "description":"As you drive along Hana Highway you’ll cross over the Makapipi Stream, which flows to form Makapipi Falls. Unlike most of Hana Highway’s waterfalls, Makapipi is unique in that you see it from above. From a bridge you have a bird’s eye view of the waterfall and its gorgeous, blue pool.",
+        "height":"40ft",
+        "access":"Pullout just past mile marker 25 on Hana Highway (Hwy 360)",
+        "tips":"Easily accessible, but watch for cars crossing the bridge.",
+        "images":[
+            "http://s3.amazonaws.com/medias.photodeck.com/8f9e8da2-d1ec-408c-bdd6-b627e56e5cc3/OS1739_Tennant_F24_184_xgaplus.jpg",
+            "http://cdn.onlyinyourstate.com/wp-content/uploads/2016/11/Makapipi-4-700x394.jpg",
+            "http://files.tripstodiscover.com/files/2015/07/Makapipi-Falls-Maui-Hawai.jpg",
+            "https://s3.amazonaws.com/medias.photodeck.com/4fb506a8-10d2-455c-a0e3-0ccfe36bdebe/OS1739_Tennant_F24_193_xlarge.jpg"
+        ],
+        "lat":"20.8076",
+        "lon":"-156.0962",
+        "address":"",
+        "website":""
+    }
+]
