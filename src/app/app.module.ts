@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { WaterfallsComponent } from './pages/waterfalls/waterfalls.component';
 import { HttpModule } from '@angular/http';
 import { WaterfallService } from './services/waterfall.service';
+import { WaterfallComponent } from './pages/waterfall/waterfall.component';
 
 const routes: Route[] = [
     {
@@ -16,13 +17,18 @@ const routes: Route[] = [
     {
         path: "waterfalls",
         component: WaterfallsComponent
+    },
+    {
+        path: "waterfall/:waterfall",
+        component: WaterfallComponent
     }
 ];
 
 @NgModule({
     declarations: [
         AppComponent,
-        WaterfallsComponent
+        WaterfallsComponent,
+        WaterfallComponent
     ],
     imports: [
         BrowserModule,

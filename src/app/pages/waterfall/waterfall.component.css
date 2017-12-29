@@ -1,0 +1,13 @@
+.mySlides {
+    height: 300px;
+    max-height: 50vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.demo {
+    max-width: 100%;
+}
+.demo:hover {
+    opacity: 1;
+}

@@ -1,0 +1,40 @@
+<div class="w3-bar w3-blue">
+    <h1 class="w3-padding">
+        {{waterfall?.name}}
+    </h1>
+</div>
+<div class="w3-container">
+    <div class="w3-content" style="max-width:1200px">
+        <div class="mySlides" [ngStyle]="{'backgroundImage':'url('+image+')'}"></div>
+        <div class="w3-row-padding w3-section">
+            <div class="w3-col s3" *ngFor="let image of waterfall?.images;let i=index">
+                <img class="demo w3-opacity" [src]="image" (click)="setImage(i)">
+            </div>
+        </div>
+    </div>
+    <div class="w3-panel w3-pale-blue w3-leftbar w3-rightbar w3-border-blue">
+        <p>{{waterfall?.description}}</p>
+    </div>
+    <table class="w3-table">
+        <tr *ngIf="waterfall?.height">
+            <th>Height</th>
+            <th [innerHTML]="waterfall?.height"></th>
+        </tr>
+        <tr *ngIf="waterfall?.access">
+            <th>Access</th>
+            <th [innerHTML]="waterfall?.access"></th>
+        </tr>
+        <tr *ngIf="waterfall?.tips">
+            <th>Tips</th>
+            <th [innerHTML]="waterfall?.tips"></th>
+        </tr>
+        <tr *ngIf="waterfall?.address">
+            <th>Address</th>
+            <th [innerHTML]="waterfall?.address"></th>
+        </tr>
+        <tr *ngIf="waterfall?.website">
+            <th>Website</th>
+            <th><a [href]="waterfall?.website" target="_blank">{{waterfall?.website}}</a></th>
+        </tr>
+    </table>
+</div>
