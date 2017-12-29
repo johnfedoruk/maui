@@ -1,4 +1,4 @@
-var CACHE_NAME = 'maui-cache-v1';
+var CACHE_NAME = 'maui-cache-v2';
 
 var urlsToCache = [
     '/',
