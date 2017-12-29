@@ -1,3 +1,13 @@
+<div class="w3-bar w3-blue">
+    <h1 class="w3-padding">
+        Waterfalls
+    </h1>
+</div>
+
+<agm-map [latitude]="markers[0]?.lat" [longitude]="markers[0]?.lng" *ngIf="markers!=null&&markers.length>0">
+    <agm-marker [latitude]="marker.lat" [longitude]="marker.lng" *ngFor="let marker of markers" (markerClick)="openLink(marker.slug)"></agm-marker>
+</agm-map>
+
 <div class="w3-row">
     <div class="w3-col m3 l3" *ngFor="let waterfall of waterfalls">
         <div class="w3-card-4" [routerLink]="['/','waterfall',waterfall.slug]">

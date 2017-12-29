@@ -10,6 +10,8 @@ import { Waterfall } from '../../models/waterfall';
 })
 export class WaterfallComponent implements OnInit {
 
+    public lat:number;
+    public lng:number;
     public image:string;
     public waterfall:Waterfall;
     constructor(private waterfallService:WaterfallService,private route:ActivatedRoute) {
@@ -30,6 +32,8 @@ export class WaterfallComponent implements OnInit {
             waterfall=>{
                 this.waterfall=waterfall;
                 this.setImage();
+                this.lat = +this.waterfall.lat;
+                this.lng = +this.waterfall.lon;
             }
         )
     }
