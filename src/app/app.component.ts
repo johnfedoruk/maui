@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
         this.router.events.subscribe(
             (event:RouterEvent) => {
                 if(event instanceof NavigationEnd)
-                    setTimeout(()=>document.body.scrollTop = 0,1)
+                    setTimeout(()=>document.body.scrollTop = 0,10)
             }
         )
     }
